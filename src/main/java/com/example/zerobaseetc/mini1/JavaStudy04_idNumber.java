@@ -2,6 +2,11 @@ package com.example.zerobaseetc.mini1;
 
 import java.util.*;
 
+/*
+    정용규
+ */
+
+
 public class JavaStudy04_idNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -23,8 +28,8 @@ public class JavaStudy04_idNumber {
     public static String generateIdNumber(Integer year, String month,
                                           String day, Character gender) {
         String yy = String.valueOf(year).substring(2);
-        String mm = month;
-        String dd = day;
+        String mm = String.format("%02d", Integer.valueOf(month));
+        String dd = String.format("%02d", Integer.valueOf(day));
         String g = convertGenderToNumber(gender);
 
         String randomNumbers = "";

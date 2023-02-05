@@ -3,6 +3,11 @@ package com.example.zerobaseetc.mini1;
 import java.util.Calendar;
 import java.util.Scanner;
 
+/*
+    정용규
+ */
+
+
 public class JavaStudy05_calendar {
 
     public static void main(String[] args) {

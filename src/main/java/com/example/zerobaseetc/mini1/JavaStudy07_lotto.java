@@ -2,6 +2,11 @@ package com.example.zerobaseetc.mini1;
 
 import java.util.*;
 
+/*
+    정용규
+ */
+
+
 public class JavaStudy07_lotto {
     public static void main(String[] args) {
 

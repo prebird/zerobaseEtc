@@ -4,6 +4,12 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+/*
+    정용규
+    코딩테스트 풀이에서 클래스를 나누는 것은 비효율 적인가요?
+ */
+
+
 public class JavaStudy08_TaxCalculator {
 
     public static void main(String[] args) {

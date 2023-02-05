@@ -2,6 +2,11 @@ package com.example.zerobaseetc.mini1;
 
 import java.util.*;
 
+/*
+    정용규
+ */
+
+
 public class JavaStudy03_amusementPark {
     private static Integer FREE_FEE = 0;
     private static Integer GENERAL_FEE = 10000;

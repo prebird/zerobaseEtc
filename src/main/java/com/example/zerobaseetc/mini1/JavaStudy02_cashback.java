@@ -2,6 +2,11 @@ package com.example.zerobaseetc.mini1;
 
 import java.util.*;
 
+/*
+    정용규
+ */
+
+
 public class JavaStudy02_cashback {
     private static Integer MAX_CASHBACK_AMOUNT = 300;
     private static float PAYBACK_RATE = 0.1f;

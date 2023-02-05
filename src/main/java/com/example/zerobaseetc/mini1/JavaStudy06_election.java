@@ -2,6 +2,13 @@ package com.example.zerobaseetc.mini1;
 
 import java.util.*;
 
+/*
+    정용규
+    String.format 으로 출력 형식에 맞추는 것은 너무 불편한 것 같습니다.
+    가독성도 떨어지는 것 같고,, 다른 방도가 없을까요?
+ */
+
+
 public class JavaStudy06_election {
     private static Integer TOTAL_VOTE = 10000;
     public static void main(String[] args) {
