@@ -27,7 +27,7 @@ public class JavaStudy03_amusementPark {
         System.out.println(printFormat);
     }
 
-    private static Integer calculateEntryFee(Integer age, Integer entryHour,
+    public static Integer calculateEntryFee(Integer age, Integer entryHour,
                                              Character nationManYn, Character cardYn) {
         if (age < 3) return FREE_FEE;
         if (nationManYn == 'y' || cardYn == 'y') return GENERAL_DISCOUNT_FEE;
