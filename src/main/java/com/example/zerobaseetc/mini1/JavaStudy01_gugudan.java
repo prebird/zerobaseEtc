@@ -1,12 +1,10 @@
 package com.example.zerobaseetc.mini1;
 
-import java.util.*;
-
 /*
     정용규
  */
 
-public class Java01Gugudan {
+public class JavaStudy01_gugudan {
     public static void main(String[] args) {
         System.out.println("[구구단 출력]");
         for(int i = 1; i < 10; i++) {
